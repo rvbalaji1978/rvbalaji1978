@@ -40,21 +40,21 @@ I am a dedicated software developer and data enthusiast with a strong focus on b
 Here is a snapshot of some of my key projects that demonstrate my expertise in software development and data analysis:
 
 ### Full-Stack & Web Development
-- **[Skill_Bout – Event Management System](#)**  
+- **[Skill_Bout – Event Management System](https://github.com/rvbalaji1978/Skill_Bout)**  
   A beginner-friendly Django web application for managing events. It provides features such as event registration, scheduling, participant tracking, and admin management. 
-- **[DocSpot: Seamless Appointment Booking for Healthcare](#)**  
+- **[DocSpot: Seamless Appointment Booking for Healthcare](https://github.com/rvbalaji1978/DocSpot-Seamless-Appointment-Booking-for-Health)**  
   A MERN stack-based healthcare appointment booking platform that streamlines doctor-patient scheduling with real-time availability and secure booking workflows.
-- **[Mini-Project-3213 – School Management System](#)**  
+- **[Mini-Project-3213 – School Management System](https://github.com/rvbalaji1978/Mini-Project-3213)**  
   A web-based School Management System developed using the Django framework. It supports student records, faculty management, attendance tracking, and academic administration through a centralized dashboard.  
 
 ### Embedded Systems & Intelligent Automation
-- **[Diploma Final Year Project – Voice to Computer System](#)**  
+- **[Diploma Final Year Project – Voice to Computer System](https://github.com/rvbalaji1978/Diploma-Final-Year-Project)**  
   A voice-controlled computer interaction system enabling users to perform operations through speech commands, improving accessibility and hands-free computing. 
-- **[Acoustic Sensor Based Rail Road Defect Detection](#)**  
+- **[Acoustic Sensor Based Rail Road Defect Detection](https://github.com/sailikhitha1128/CSD-2025-2026-Batch-B-12)**  
   A cost-effective and reliable rail defect detection system utilizing acoustic wave technology to identify cracks, fractures, and surface wear in real time, enhancing railway safety and maintenance efficiency. 
 
 ### Enterprise & CRM Platforms
-- **[ERM-for-Hybrid-Workforce](#)**  
+- **[ERM-for-Hybrid-Workforce](https://github.com/rvbalaji1978/ERM-for-Hybrid-Workforce)**  
   A Salesforce-powered Enterprise Resource Management (ERM) platform designed to manage and streamline hybrid workforce operations. The system enables efficient employee tracking, performance monitoring, and workflow automation for modern enterprises.  
 
 For a comprehensive list, visit [My GitHub Repositories](https://github.com/rvbalaji1978?tab=repositories).  
