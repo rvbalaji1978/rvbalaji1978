@@ -63,10 +63,12 @@ For a comprehensive list, visit [My GitHub Repositories](https://github.com/rvba
 
 ## Certifications
 
-- **Salesforce Certified Agentforce Specialist**  
 - **SAP Certified Associate - Back-End Developer (ABAP Cloud)**  
-- **ServiceNow CAD**  
-- **ServiceNow CSA**
+- **Salesforce Certified Agentforce Specialist**  
+- **ServiceNow Certified Application Developer**  
+- **ServiceNow Certified System Administrator**
+
+
   
 These certifications highlight my skills in enterprise platforms, cloud fundamentals, and CRM/ERP workflows.
 
